@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "patient-management-system-nextjs",
+		"path": ".."
+	},
+	{
+		"name": "public",
+		"path": "../../../../../../Download/carepulse_public/public"
+	}
+],
+  "settings": {}
+}
